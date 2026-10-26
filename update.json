@@ -1,9 +1,9 @@
 {
-  "versionCode": 6000127,
-  "versionName": "6.0.127",
-  "tag": "v6.0.127",
-  "apkUrl": "https://raw.githubusercontent.com/KeinerMaster/histap-updates/main/histap-latest.apk?v=6000127",
+  "versionCode": 6000128,
+  "versionName": "6.0.128",
+  "tag": "v6.0.128",
+  "apkUrl": "https://raw.githubusercontent.com/KeinerMaster/histap-updates/main/histap-latest.apk?v=6000128",
   "releaseUrl": "https://github.com/KeinerMaster/histap-updates",
-  "sha256": "cd0bd73715a9b45971b809c11f92bb9f07dceefbb72d68daf597c5e02b07f9e0",
-  "notes": "Nueva versión de HISTAP 6.0.127."
+  "sha256": "c9918480f66733fc3555205b018d3ace5aa01e2956322d288da0438c8a7d6f52",
+  "notes": "Nueva versión de HISTAP 6.0.128."
 }
